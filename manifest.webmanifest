@@ -1,0 +1,16 @@
+{
+  "name": "KPL 电竞经理 · 逐梦",
+  "short_name": "逐梦 KPL",
+  "description": "KPL 战队经营模拟，单机、离线、可添加到主屏幕。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a111e",
+  "theme_color": "#0a111e",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
